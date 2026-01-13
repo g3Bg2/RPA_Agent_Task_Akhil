@@ -1,0 +1,117 @@
+# Environment Variables (Local Configuration)
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+*.iml
+
+# Generated Files
+*.csv
+*.log
+logs/
+reports/
+*.pdf
+temp/
+tmp/
+
+# OS Files
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Project Specific
+processed/
+exceptions/
+review/
+invoices/*.pdf
+
+# Backup Files
+*.bak
+*.backup
+*~
+*.orig
+
+# Test Coverage
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Node modules (if using any JS)
+node_modules/
+npm-debug.log
+
+# Compiled files
+*.o
+*.a
+*.lib
+*.dll
+*.exe
+
+# MacOS
+.AppleDouble
+.LSOverride
+*.localized
+
+# Windows
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Keep these important files
+!.env.example
+!.gitignore
+!README.md
+!requirements.txt
+!po_data.csv

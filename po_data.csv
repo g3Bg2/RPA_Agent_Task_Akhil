@@ -1,0 +1,11 @@
+PO_Number,Vendor_Name,Expected_Amount,Expected_Date
+INV001,TechSupplies Inc,1500.00,2026-01-10
+INV002,Office Essentials Ltd,2500.00,2026-01-11
+INV003,Cloud Services Corp,3200.00,2026-01-12
+INV004, Stationery World,200.00,2026-01-13
+INV005,Software Licensing Group,5000.00,2026-01-13
+INV006,Facility Maintenance Co,800.75,2026-01-08
+INV007,Business Consulting Inc,4500.00,2026-01-14
+INV008,Marketing Services Pro,2200.25,2026-01-15
+INV009,IT Support Services,1800.00,2026-01-16
+INV010,General Suppliers Corp,950.00,2026-01-17
