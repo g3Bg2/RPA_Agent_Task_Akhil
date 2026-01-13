@@ -7,12 +7,16 @@
 - pip package manager
 - (For Agentic) Ollama local LLM service running on localhost:11434
 
+
+```bash
 python3 -m venv .venv
 
 source .venv/bin/activate  # Linux/Mac
-# or
-.venv\Scripts\activate  # Windows
 
+#or
+
+.venv\Scripts\activate  # Windows
+```
 # Install Python packages
 pip install -r requirements.txt
 
@@ -39,7 +43,7 @@ python invoice_automation.py
 
 ---
 
-## 🧠 Running the Agentic Workflow
+## Running the Agentic Workflow
 
 The **Agentic Workflow** uses LangChain agents with local Ollama models for intelligent decision-making.
 
